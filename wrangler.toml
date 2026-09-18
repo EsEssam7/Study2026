@@ -1,2 +1,3 @@
 name = "study2026"
-pages_build_output_dir = "."
+main = "Study2026/2026.html"  # أو مسار ملف الدخول في مشروعك
+compatibility_date = "2026-09-18"
